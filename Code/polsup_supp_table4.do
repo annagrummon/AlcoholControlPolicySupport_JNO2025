@@ -1,4 +1,4 @@
-* Esimate results for Supplemental eTable 4: Support for alcohol control policies by binge drinking during the past 4 weeks
+* Estimate results for Supplemental eTable 4: Support for alcohol control policies by binge drinking during the past 4 weeks
 
 * Load data
 use "$Data/2_All Demog_AlcoholExp_wide.dta", replace
